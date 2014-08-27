@@ -1,0 +1,28 @@
+{
+  "name": "toc",
+  "title": "jQuery Table of Contents Plugin",
+  "description": "jQuery Table of Contents Plugin",
+  "version": "0.0.1",
+  "homepage": "git@github.com:karlgroves/jquery-toc.git",
+  "author": {
+    "name": "Karl Groves",
+    "url": "https://github.com/karlgroves"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:karlgroves/jquery-toc.git"
+  },
+  "bugs": "https://github.com/karlgroves/jquery-toc/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}
