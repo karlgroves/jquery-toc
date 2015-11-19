@@ -1,6 +1,6 @@
-/*! toc - v0.0.1 - 2014-08-27
+/*! toc - v0.0.1 - 2015-11-18
 * https://github.com/karlgroves/toc
-* Copyright (c) 2014 Karl Groves; Licensed MIT */
+* Copyright (c) 2015 Karl Groves; Licensed MIT */
 (function ($) {
 
   $.fn.toc = function (els) {
