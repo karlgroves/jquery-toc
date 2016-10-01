@@ -1,5 +1,7 @@
 # jQuery Table of Contents Plugin
 
+![Travis CI build status](https://travis-ci.org/karlgroves/jquery-toc.svg?branch=master)
+
 I created this plugin to dynamically add a Table of Contents to long documents, such as documentation or specifications.
 Manually updating a Table of Contents when the content, structure, or heading text changes is an unnecessary pain.
 
